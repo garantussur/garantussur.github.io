@@ -5,17 +5,10 @@ html {
 }
 
 
-/* 
-
-;
-
-*/
-
-
 body {background-color: grey}
 
 .header {
-	background-image: url(../img/bg/bg-header1.jpg);
+	background-image: url(../bg/bg-header1.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
